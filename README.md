@@ -29,3 +29,5 @@ Key Features of BiteBlitz:
 BiteBlitz's innovative framework harnesses modern technology to provide a user-friendly and responsive experience for food enthusiasts. With a focus on restaurant variety, menu exploration, secure payments, and personalized experiences, BiteBlitz aims to elevate the food delivery experience, making it accessible from various devices.
 
 ![BiteBlitz](https://github.com/ImmortalFireKing/BiteBlitz/assets/149437730/60ee0d8c-4f0a-45c7-bc86-9bb4d4c43715)
+
+[BiteBlitzDOC.pdf](https://github.com/ImmortalFireKing/BiteBlitz/files/13245317/BiteBlitzDOC.pdf)
