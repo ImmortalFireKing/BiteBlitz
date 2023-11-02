@@ -30,4 +30,6 @@ BiteBlitz's innovative framework harnesses modern technology to provide a user-f
 
 ![BiteBlitz](https://github.com/ImmortalFireKing/BiteBlitz/assets/149437730/60ee0d8c-4f0a-45c7-bc86-9bb4d4c43715)
 
-[BiteBlitzDOC.pdf](https://github.com/ImmortalFireKing/BiteBlitz/files/13245317/BiteBlitzDOC.pdf)
+![Doc1](https://github.com/ImmortalFireKing/BiteBlitz/assets/149437730/9138e306-8597-4180-bed2-a95297ecb2be)
+![Doc2](https://github.com/ImmortalFireKing/BiteBlitz/assets/149437730/9d235bdf-25d9-4f99-9715-9036c3316307)
+![Doc3](https://github.com/ImmortalFireKing/BiteBlitz/assets/149437730/184de2c8-c553-498f-b35f-9f01b86eeb8e)
